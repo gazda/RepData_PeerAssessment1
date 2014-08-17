@@ -71,7 +71,6 @@ max_average_steps
 ```
 ## [1] 206.2
 ```
-The max value is 206.1698 of steps.
 
 The interval with most steps is:
 

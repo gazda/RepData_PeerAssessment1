@@ -47,7 +47,6 @@ Maximal average number of steps
 max_average_steps <- max(interval_steps$average_steps)
 max_average_steps
 ```
-The max value is `r max_average_steps` of steps.
 
 The interval with most steps is:
 ```{r, echo=TRUE}
